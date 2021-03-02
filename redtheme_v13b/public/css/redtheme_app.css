@@ -65,6 +65,7 @@ a {
 .dropdown-menu>li>a {
     font-size: 13px;
 	color:#666;
+	font-weight: 500;
 }
 
 /* Page Heading */
@@ -93,7 +94,7 @@ a {
     border-color: #8d2a71;
 }
 .control-label, .grid-heading-row {
-    font-size:14px;
+    font-size:13px;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
     background-color: #6a1552;
@@ -101,4 +102,9 @@ a {
 }
 .indicator-right.blue:after, .indicator.blue:before {
     background: #ac3c8d;
+}
+
+/*Other Components*/
+input[type=checkbox]:checked:before {
+    color: #ae3c8e;
 }
