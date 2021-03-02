@@ -1,0 +1,77 @@
+/* Navigation Bar */
+.navbar {
+    padding: 0.1rem 1rem;
+}
+.navbar-light {
+     background: linear-gradient(to right, #691551, #af3d8f);
+}
+.navbar-light .navbar-nav .nav-link {
+     color:#eee !important;
+}
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link.active {
+    color: #fff;
+}
+.navbar-light .navbar-brand, .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color: rgb(255 255 255 / 90%);
+}
+
+/*Footer*/
+.web-footer {
+     padding: 1rem 0 !important;
+     bottom:0 !important;
+     width:100%;
+     position:fixed;
+     border-top: 0px !important;
+     background: linear-gradient(to right, #691551, #af3d8f);
+}
+.footer-info {
+    border-top: none;
+    color: #cecece;
+}
+.text-muted {
+    color: #b5b5b5!important;
+}
+
+/*Page Card*/
+.page-card {
+     height: 275px;
+     max-width: 500px !important;
+     padding: 25px !important;
+     background-color: #ffffff !important;
+     border: none !important;
+     box-shadow: 0px 3px 11px 0px #E8EAFC, 0 3px 3px -2px #B2B2B21A, 0 1px 8px 0 #9A9A9A1A !important;
+}
+.page-card .page-card-head {
+     border-bottom:none !important;
+}
+.card {
+    background-color: white;
+	box-shadow: 0px 3px 12px 0px #e8eafcad, 0 3px 3px -2px #461a7714;
+}
+
+/*Buttons*/
+.btn-primary {
+    background-color: #8d2a71;
+    border-color: #8d2a71;
+}
+.btn-primary:hover, .btn-primary:active, btn-primary:focus {
+    background-color: #6a1552;
+    border-color:#6a1552;
+}
+.btn-login:active, .btn-login:focus {
+    background-color: #6a1552;
+    border-color:#6a1552;
+}
+
+/*Form*/
+.form-control{
+    border: 1px solid #dcdcdc !important;
+    border-radius: 2px !important;
+}
+.form-footer, .form-footer a, .form-footer h6 {
+     font-size: 14px;
+     font-weight:500;
+}
+.indicator-right.blue:after, .indicator.blue:before {
+    background: #8d2a71;
+}

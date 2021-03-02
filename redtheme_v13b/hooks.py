@@ -10,16 +10,17 @@ app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "hashirabdulla@gmail.com"
 app_license = "MIT"
+app_logo_url = "/assets/redtheme_v13b/images/e_red.png"
 
 # Includes in <head>
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/redtheme_v13b/css/redtheme_v13b.css"
+app_include_css = "/assets/redtheme_v13b/css/redtheme_app.css"
 # app_include_js = "/assets/redtheme_v13b/js/redtheme_v13b.js"
 
 # include js, css files in header of web template
-# web_include_css = "/assets/redtheme_v13b/css/redtheme_v13b.css"
+web_include_css = "/assets/redtheme_v13b/css/redtheme_web.css"
 # web_include_js = "/assets/redtheme_v13b/js/redtheme_v13b.js"
 
 # include custom scss in every website theme (without file extension ".scss")
