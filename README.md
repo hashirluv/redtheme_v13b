@@ -1,7 +1,3 @@
-## Redtheme V13B
-
-Red Theme for Frappe v13b
-
 ## Elegant Theme for Frappe/ERPNext v13-beta
 
 Custom Theme for Frappe/ERPNext v13-beta
