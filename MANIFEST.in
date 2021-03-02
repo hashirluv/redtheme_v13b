@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include redtheme_v13b *.css
+recursive-include redtheme_v13b *.csv
+recursive-include redtheme_v13b *.html
+recursive-include redtheme_v13b *.ico
+recursive-include redtheme_v13b *.js
+recursive-include redtheme_v13b *.json
+recursive-include redtheme_v13b *.md
+recursive-include redtheme_v13b *.png
+recursive-include redtheme_v13b *.py
+recursive-include redtheme_v13b *.svg
+recursive-include redtheme_v13b *.txt
+recursive-exclude redtheme_v13b *.pyc
