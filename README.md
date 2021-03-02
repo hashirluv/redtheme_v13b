@@ -13,7 +13,7 @@ To install this theme,
 To change the icon, copy an icon of your choice (88x88px size preferred) to public/images folder of redtheme_v13b app and name it as 'e_red.png'
 
 
-To uninstall bluetheme
+To uninstall this theme
 
 1. bench --site (sitename) uninstall-app redtheme_v13b
 
